@@ -5,6 +5,8 @@
 
 using namespace std;
 
+// function prototypes 
+
 void bot(int);
 void drawboard();
 void checkwinner();
